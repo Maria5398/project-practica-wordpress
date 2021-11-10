@@ -1,0 +1,323 @@
+# Translation of Themes - MyWiki in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - MyWiki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-01 04:24:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - MyWiki\n"
+
+#. Description of the theme
+msgid "MyWiki is simple, lightweight and fast loading WordPress Theme for individuals and companies to manage their Knowledge-base or Support or Wiki or Frequently Asked Questions (FAQs) through a WordPress website. It is powered by Ajax search. It is a mobile responsive theme based on Twitter bootstrap framework. It is a translation ready theme and hence can be translated to any LTR language. Step by step documentation and tutorial is available for free here: https://fasterthemes.com/documentation/mywiki/"
+msgstr "MyWiki es un tema de WordPress en simple, y de rápida carga, para que personas y empresas administren su base de conocimiento, soporte, Wiki o Preguntas Más Frecuentes (FAQ) a través de un sitio web de WordPress. Es impulsado por la búsqueda de Ajax. Es un tema de adaptable a dispositivos móviles y está basado en el framework bootstrap de Twitter. Este tema se encuentra preparado para traducción, por lo tanto, se puede traducir a cualquier idioma LTR. La documentación paso a paso y el tutorial están disponibles de forma gratuita en: https://fasterthemes.com/documentation/mywiki/"
+
+#. Theme Name of the theme
+msgid "MyWiki"
+msgstr "MyWiki"
+
+#: functions.php:217
+msgid "MyWiki Pro"
+msgstr "MyWiki Pro"
+
+#: functions.php:217
+msgid "Pro Feature"
+msgstr "Características Pro"
+
+#: functions.php:144
+msgid "No"
+msgstr "No"
+
+#: function/customizer.php:304
+msgid "Enter URL"
+msgstr "Ingresar URL"
+
+#: function/customizer.php:285
+msgid "Social Link "
+msgstr "Link de redes sociales"
+
+#: function/customizer.php:275
+msgid "Enter Icon"
+msgstr "Ingresar ícono"
+
+#: function/customizer.php:257
+msgid "Social Account "
+msgstr "Cuenta de redes sociales"
+
+#: function/customizer.php:241
+msgid " Enter the URL of your social accounts. Leave it empty to hide the icon."
+msgstr "Ingresá la web de tus redes sociales. Si no la completás, el ícono se oculta."
+
+#: function/customizer.php:241
+msgid " and in second input box, you need to add your social media profile URL."
+msgstr "en la segunda caja de texto necesitás agregar la URL de tu perfil en redes sociales."
+
+#: function/customizer.php:241
+msgid "In first input box, you need to add FONT AWESOME shortcode which you can find "
+msgstr "En la primera caja de texto tenés que agregar el shortcode de FONT AWESOME donde lo podés encontrar"
+
+#: function/customizer.php:239
+msgid "Footer Social Accounts"
+msgstr "Cuentas de redes sociales en el pie"
+
+#: function/customizer.php:231
+msgid "Enter Copyright Text"
+msgstr "Ingresá el texto de derecho de autor"
+
+#: function/customizer.php:206
+msgid "Footer  options"
+msgstr "Opciones del pie"
+
+#: function/customizer.php:205 function/customizer.php:212
+msgid "Footer"
+msgstr "Pie"
+
+#: function/customizer.php:193
+msgid "Category Post List Icon : "
+msgstr "Ícono de categorías de entradas:"
+
+#: function/customizer.php:178 function/customizer.php:196
+msgid "Enter Font Awesome Icon"
+msgstr "Ingresá el ícono de Font Awesome"
+
+#: function/customizer.php:176 function/customizer.php:194
+#: function/customizer.php:241
+msgid "here"
+msgstr "aquí"
+
+#: function/customizer.php:176 function/customizer.php:194
+msgid "In input box, you need to add FONT AWESOME shortcode which you can find "
+msgstr "Necesitás agregar el shortcode de FONT AWESOME en la caja de texto donde lo podés encontrar"
+
+#: function/customizer.php:175
+msgid "Category Icon : "
+msgstr "Ícono de categoría:"
+
+#: function/customizer.php:160
+msgid "Enter Title like Knowledgebase Categories"
+msgstr "Ingresar Título como Categorías"
+
+#: function/customizer.php:158
+msgid "Category Header Title : "
+msgstr "Título de categoría de cabecera"
+
+#: function/customizer.php:152 template-wiki.php:13
+msgid "Knowledgebase Categories"
+msgstr "Categorías de base de conocimiento"
+
+#: function/customizer.php:125 function/customizer.php:143
+msgid "Enter Number of post"
+msgstr "Ingresá el número de entrada:"
+
+#: function/customizer.php:123 function/customizer.php:141
+msgid "Number of posts to show: "
+msgstr "Cantidad de entradas a mostrar:"
+
+#: function/customizer.php:84
+msgid "Front Page : Options"
+msgstr "Página Principal: Opciones"
+
+#: function/customizer.php:77
+msgid "Header & Logo"
+msgstr "Cabecera & Logo"
+
+#: function/customizer.php:69
+msgid "styling options"
+msgstr "opciones de estilo"
+
+#: function/customizer.php:68
+msgid "General"
+msgstr "General"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:24
+msgctxt "comments title"
+msgid "%1$s One thought on - %2$s"
+msgid_plural "%1$s thoughts on - %2$s"
+msgstr[0] "%1$s un comentario en - %2$s"
+msgstr[1] "%1$s comentarios en - %2$s"
+
+#. translators: %s: post title
+#: comments.php:20
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a &ldquo;%s&rdquo;"
+
+#. translators: 1 is site url
+#: footer.php:43
+msgid " Powered by %1$s"
+msgstr "Desarrollado por %1$s."
+
+#. Template Name of the theme
+msgid "Wiki template"
+msgstr "Plantilla Wiki"
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr "Página Completa"
+
+#: tag.php:9
+msgid "Tag"
+msgstr "Etiquetas"
+
+#: search.php:8 searchform.php:8 searchform.php:9
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:204
+msgid "Have a Question? Write here and press enter"
+msgstr "¿Tenés preguntas? Escribí aquí y presioná enter."
+
+#: function/theme-default-setup.php:177
+msgid "Read more"
+msgstr "Leer más"
+
+#: function/theme-default-setup.php:177
+msgid "read more..."
+msgstr "leer más..."
+
+#: functions.php:179
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: 1 is post date , 2 is post time
+#: functions.php:176
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#. translators: 1 is author link
+#: functions.php:171
+msgid "%s says:"
+msgstr "%s escribió:"
+
+#: function/theme-default-setup.php:35
+msgid "Footer Content Area 3"
+msgstr "Área del contenido del Pie 3"
+
+#: function/theme-default-setup.php:26
+msgid "Footer Content Area 2"
+msgstr "Área del contenido del Pie 2"
+
+#: function/theme-default-setup.php:18 function/theme-default-setup.php:27
+#: function/theme-default-setup.php:36
+msgid "Used on Footer."
+msgstr "Usado en el pie."
+
+#: function/theme-default-setup.php:17
+msgid "Footer Content Area 1"
+msgstr "Área del contenido del Pie 1"
+
+#: function/theme-default-setup.php:9
+msgid "Used on every page."
+msgstr "Usado en todas las páginas."
+
+#: function/theme-default-setup.php:8
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: function/theme-default-setup.php:130
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: function/theme-default-setup.php:124
+msgid "Displays most recent posts by post count"
+msgstr "Mostrar entradas mas recientes por conteo de entradas"
+
+#: function/theme-default-setup.php:116
+msgid "Use 0 for no time limit."
+msgstr "Usar 0 para sin límite de tiempo"
+
+#: function/theme-default-setup.php:113
+msgid "Posted in the past X days"
+msgstr "Ingresado en los últimos X días"
+
+#: function/theme-default-setup.php:109 function/theme-default-setup.php:165
+msgid "Number of Posts"
+msgstr "Numero de Entradas"
+
+#: function/theme-default-setup.php:105 function/theme-default-setup.php:161
+msgid "Title"
+msgstr "Título"
+
+#: function/theme-default-setup.php:59
+msgid "Popular Posts"
+msgstr "Entradas Populares"
+
+#: function/theme-default-setup.php:53
+msgid "Displays most popular posts by comment count"
+msgstr "Mostrar entradas mas populares por cantidad de comentarios"
+
+#: functions.php:35
+msgid "Footer Links"
+msgstr "Vínculos del Pie"
+
+#: functions.php:34
+msgid "The Main Menu"
+msgstr "El Menú Principal"
+
+#: comments.php:55
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:51
+msgid "E-Mail"
+msgstr "Correo electrónico"
+
+#: comments.php:47
+msgid "Your Name"
+msgstr "Tu Nombre"
+
+#: comments.php:43
+msgid "Submit Comment"
+msgstr "Enviar comentario"
+
+#: comments.php:42
+msgid "LEAVE A COMMENT"
+msgstr "Dejar un comentario"
+
+#: category.php:9
+msgid "Category"
+msgstr "Categoría"
+
+#: author.php:9
+msgid "Author"
+msgstr "Autor"
+
+#: attachment.php:30 index.php:33
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "Lo siento, pero el recurso solicitado no fue encontrado en este sitio web."
+
+#: attachment.php:27 index.php:28
+msgid "Not Found"
+msgstr "No se ha encontrado"
+
+#: archive.php:9
+msgid "Archives"
+msgstr "Archivos"
+
+#: 404.php:12
+msgid "Whatever you were looking for was not found, but maybe try looking again or search using the form below."
+msgstr "Lo que estás buscando no se encuentra, pero intentá nuevamente o utilizá el siguiente formulario."
+
+#: 404.php:8
+msgid "This is embarassing. We can't find what you were looking for."
+msgstr "Es vergonzoso. No podemos encontrar lo que querés buscar."
+
+#: 404.php:7
+msgid "Epic 404 - Article Not Found"
+msgstr "Error 404 - Artículo NO Encontrado"
+
+#. Author URI of the theme
+msgid "http://fasterthemes.com/"
+msgstr "http://fasterthemes.com/"
+
+#. Author of the theme
+msgid "FasterThemes"
+msgstr "FasterThemes"
+
+#. Theme URI of the theme
+msgid "http://fasterthemes.com/wordpress-themes/mywiki"
+msgstr "http://fasterthemes.com/wordpress-themes/mywiki"
